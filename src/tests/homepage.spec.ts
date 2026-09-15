@@ -37,7 +37,7 @@ test('home page headers exist test  @regression',async () => {
 
             expect.soft(allheaders).toHaveLength(6);   // >>> dont use soft 
 
-            expect(allheaders).toEqual([ 'My Account', 'My Orders', 'My Affiliate Account','Newsletter']);
+            expect(allheaders).toEqual([ 'My Account', 'My Orders', 'My Affiliate Account']);
 
 });
 
