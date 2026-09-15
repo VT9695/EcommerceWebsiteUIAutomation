@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1767","@regression logic builling test- bharati@gmail.com","chromium","2026-09-15","passed","2026-09-15","","loginpage.spec.ts","",""
+"","1793","@regression logic builling test- vaibhav.sumbe97@gmail.com","chromium","2026-09-15","passed","2026-09-15","","loginpage.spec.ts","",""
+"","1705","@regression logic builling test- invalid@opem.com","chromium","2026-09-15","passed","2026-09-15","","loginpage.spec.ts","",""
