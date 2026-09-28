@@ -43,6 +43,9 @@ test('home page headers exist test  @regression',async () => {
 
 
 
+
+
+//
 //hooks
 
 
@@ -54,6 +57,8 @@ test('home page headers exist test  @regression',async () => {
 //how many project we have craeted ?? >> javacsript >>ntypsceript >> playweright >> framwork
 
 
+
+//git clone https://github.com/VT9695/EcommerceWebsiteUIAutomation.git
 
 // mandatory >> github account is needed
 
